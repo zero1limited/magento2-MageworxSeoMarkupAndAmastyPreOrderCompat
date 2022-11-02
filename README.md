@@ -1,0 +1,2 @@
+# magento2-MageworxSeoMarkupAndAmastyPreOrderCompat
+Compatibility module for Mageworx_SeoMarkup and Amasty_PreOrder
